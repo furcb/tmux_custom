@@ -5,7 +5,7 @@ from launchers like dmenu or rofi.
 
 ### Usage
 
-```sh
+```
 Tmux custom launcher
 
 Custom interface for tmux, and a terminal
